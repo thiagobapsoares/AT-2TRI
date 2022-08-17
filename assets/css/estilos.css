@@ -1,0 +1,61 @@
+.atividades{
+    background-color: #b7d5e5;
+}
+
+.alterar{
+    background-color: #f3da83;
+}
+
+.excluir{
+    background-color: #f38383;
+}
+
+.entrar{
+    background-color: #d1f2eb;
+}
+
+.order-1{
+    margin-bottom: 10px;
+}
+
+input,i,select{
+    margin-bottom: 10px;
+}
+
+textarea{
+    resize: none;
+}
+
+h2{
+    text-align: center;
+}
+
+.text-center{
+    margin-bottom: 10px;
+}
+
+.logoff{
+    position: fixed;
+    right: 0;
+    cursor: pointer;
+}
+
+.btn-descart{
+    background-color: rgb(73, 40, 8);
+    box-shadow: inset rgb(73, 40, 8);
+    border: rgb(73, 40, 8);
+    color: white;
+}
+
+.btn-descart:hover{
+    background-color: rgb(58, 33, 7);
+    box-shadow: inset rgb(73, 40, 8);
+    border: rgb(73, 40, 8);
+    color: white;
+}
+
+.text-bg-descart{
+    background-color: rgb(73, 40, 8);
+    border: rgb(73, 40, 8);
+    color: white;
+}
